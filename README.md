@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 💙💙
+[### Boas vindas ao meu perfil 💙💙
 
 Meu nome é Gabriel Aurélio
 
@@ -12,4 +12,5 @@ xarulino@gmail.com
 
 @aurelio_souz
 
-![](https://media1.tenor.com/m/_7RPa7mVqPgAAAAd/smile-dog.gif)
+![](https://media1.tenor.com/m/_7RPa7mVqPgAAAAd/smile-dog.gif)](https://editor.p5js.org/aurelio2334/sketches/PYk11n57t)
+
